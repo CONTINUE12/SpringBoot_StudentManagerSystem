@@ -19,7 +19,11 @@
 - （2）resources目录：包含mapper（数据库操作的xml文件）、static（静态资源文件）、templates（前端html页面文件）、application.yml全局配置文件等
 - （3）pom.xml文件：基于maven管理的jar包
 
-四.数据库studentmanager设计：
+四.项目讲解博客
+
+https://blog.csdn.net/qq_39144436/article/details/123136969
+
+五.数据库studentmanager设计：
 
 - （1）管理员信息表s_admin
 
