@@ -60,3 +60,8 @@ https://blog.csdn.net/qq_39144436/article/details/123136969
 - （9）考勤信息表s_attendance 
 
 ![输入图片说明](images9.png)
+
+六.其他项目仓库链接
+
+1.基于微服务架构，包括网上预约挂号业务和肺癌风险评估业务，旨在缓解挂号难、看病难的就医难题。 
+https://github.com/CONTINUE12/PMP
